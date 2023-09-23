@@ -26,7 +26,6 @@ I'm a passionate learner on a journey to expand my skills in SQL, Excel, and Pyt
 
 - LinkedIn: [Veerendra's LinkedIn](https://www.linkedin.com/in/veerendra-raikwar/)
 - Email: veerendra3615@gmail.com
-- Instagram: [Follow me on Instagram](https://www.instagram.com/your-instagram-handle/)
 
 ## 💻 Tech Stack:
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,7 +42,7 @@ I'm a passionate learner on a journey to expand my skills in SQL, Excel, and Pyt
 
 Feel free to connect with me to discuss projects, share insights, or just have a tech-related chat!
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
+![MasterHead](https://cdn.pixabay.com/animation/2023/03/19/19/55/19-55-58-835_512.gif)]
 
 
 
